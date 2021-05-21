@@ -18,6 +18,7 @@ function App() {
       />
       <About 
         bio = {user.bio}
+        links = {user.links}
       />
     </div>
   );
